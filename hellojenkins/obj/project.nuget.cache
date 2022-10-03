@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wZSGZUVnoML8pH+w8YvQrx3RFv9G6J9T0lTazN9XW4Wlp+YxnLKA2vWCp20O9mKLI7KhjPJCL37Zcj++5Xx+gg==",
+  "success": true,
+  "projectFilePath": "D:\\code\\net6allsample\\hellojenkins\\hellojenkins\\hellojenkins.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zwq\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512"
+  ],
+  "logs": []
+}
