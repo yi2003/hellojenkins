@@ -8,37 +8,37 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = hellojenkins
 build_property.RootNamespace = hellojenkins
-build_property.ProjectDir = D:\code\net6allsample\hellojenkins\hellojenkins\
+build_property.ProjectDir = D:\code\hellojenkins\hellojenkins\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\code\net6allsample\hellojenkins\hellojenkins
+build_property.MSBuildProjectDirectory = D:\code\hellojenkins\hellojenkins
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/code/net6allsample/hellojenkins/hellojenkins/Pages/Error.cshtml]
+[D:/code/hellojenkins/hellojenkins/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/code/net6allsample/hellojenkins/hellojenkins/Pages/Index.cshtml]
+[D:/code/hellojenkins/hellojenkins/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/code/net6allsample/hellojenkins/hellojenkins/Pages/Privacy.cshtml]
+[D:/code/hellojenkins/hellojenkins/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/code/net6allsample/hellojenkins/hellojenkins/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[D:/code/hellojenkins/hellojenkins/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/code/net6allsample/hellojenkins/hellojenkins/Pages/_ViewImports.cshtml]
+[D:/code/hellojenkins/hellojenkins/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/code/net6allsample/hellojenkins/hellojenkins/Pages/_ViewStart.cshtml]
+[D:/code/hellojenkins/hellojenkins/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/code/net6allsample/hellojenkins/hellojenkins/Pages/Shared/_Layout.cshtml]
+[D:/code/hellojenkins/hellojenkins/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-7spfz7zwtu

@@ -1,0 +1,8 @@
+D:\code\hellojenkins\hellojenkins\bin\Debug\net6.0\publish\Dockerfile
+D:\code\hellojenkins\hellojenkins\bin\Debug\net6.0\publish\hellojenkins.exe
+D:\code\hellojenkins\hellojenkins\bin\Debug\net6.0\publish\appsettings.Development.json
+D:\code\hellojenkins\hellojenkins\bin\Debug\net6.0\publish\appsettings.json
+D:\code\hellojenkins\hellojenkins\bin\Debug\net6.0\publish\hellojenkins.dll
+D:\code\hellojenkins\hellojenkins\bin\Debug\net6.0\publish\hellojenkins.deps.json
+D:\code\hellojenkins\hellojenkins\bin\Debug\net6.0\publish\hellojenkins.runtimeconfig.json
+D:\code\hellojenkins\hellojenkins\bin\Debug\net6.0\publish\hellojenkins.pdb

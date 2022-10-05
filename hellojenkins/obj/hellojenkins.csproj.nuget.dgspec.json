@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\code\\net6allsample\\hellojenkins\\hellojenkins\\hellojenkins.csproj": {}
+    "D:\\code\\hellojenkins\\hellojenkins\\hellojenkins.csproj": {}
   },
   "projects": {
-    "D:\\code\\net6allsample\\hellojenkins\\hellojenkins\\hellojenkins.csproj": {
+    "D:\\code\\hellojenkins\\hellojenkins\\hellojenkins.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\code\\net6allsample\\hellojenkins\\hellojenkins\\hellojenkins.csproj",
+        "projectUniqueName": "D:\\code\\hellojenkins\\hellojenkins\\hellojenkins.csproj",
         "projectName": "hellojenkins",
-        "projectPath": "D:\\code\\net6allsample\\hellojenkins\\hellojenkins\\hellojenkins.csproj",
+        "projectPath": "D:\\code\\hellojenkins\\hellojenkins\\hellojenkins.csproj",
         "packagesPath": "C:\\Users\\zwq\\.nuget\\packages\\",
-        "outputPath": "D:\\code\\net6allsample\\hellojenkins\\hellojenkins\\obj\\",
+        "outputPath": "D:\\code\\hellojenkins\\hellojenkins\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\zwq\\AppData\\Roaming\\NuGet\\NuGet.Config",
